@@ -1,5 +1,11 @@
-# hello-world
-Test Repository
+# Project: hello-world
+Project description
 
-# setup
-Get up and running!
+# Prerequisites
+Required software
+
+# Build
+Steps to build the project
+
+# Configure
+Steps to configure the project
